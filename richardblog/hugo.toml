@@ -1,0 +1,4 @@
+baseURL = 'http:/jr0612.github.io/'
+languageCode = 'en-us'
+title = 'Richard blog'
+theme="hermit-v2"
